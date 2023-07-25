@@ -1,0 +1,43 @@
+caption {
+  margin: auto;
+  height: 40px;
+  width: 90vw;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 30px;
+  background-color: rgb(159, 174, 133);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+table {
+  width: 100vw;
+}
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  font-family: "Finger Paint", cursive;
+}
+
+.name {
+  padding: 20px;
+}
+.mid {
+  padding-right: 30px;
+}
+
+.heading {
+  margin: auto;
+  height: 40px;
+  width: 90vw;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 30px;
+  background-color: rgb(159, 174, 133);
+  padding-left: 30%;
+}
